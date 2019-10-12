@@ -38,10 +38,16 @@ font-size:20px;
 }
 .animation-area h1{
     text-transform: uppercase;
+ border-bottom:5px solid white;
+ border-bottom-left-radius:1px;
+  border-bottom-right-radius:1px;
     text-decoration-color:black; 
 }
 .animation-area h2{
     text-transform: uppercase;
+  border-bottom:5px solid white;
+ border-bottom-left-radius:1px;
+  border-bottom-right-radius:1px;
     text-decoration-color:black; 
 }
 
